@@ -17,6 +17,22 @@
             "latest_app_version": "latest",
             "latest_human_version": "latest_2.0.14",
             "icon_url": "https://truecharts.org/img/hotlink-ok/chart-icons/icloudpd.png"
+        },
+        "icloudpd2": {
+            "name": "icloudpd2",
+            "categories": [
+                "Backup",
+                "Cloud",
+                "Downloaders"
+            ],
+            "app_readme": "<p>iCloudPD, syncs photos from iDevices to a single directory on TrueNAS.</p>\n<p>This App is supplied by TrueCharts, for more information visit the manual: <a href=\"https://truecharts.org/charts/incubator/icloudpd\">https://truecharts.org/charts/incubator/icloudpd</a></p>\n<hr />\n<p>TrueCharts can only exist due to the incredible effort of our staff.\nPlease consider making a <a href=\"https://truecharts.org/sponsor\">donation</a> or contributing back to the project any way you can!</p>",
+            "location": "/home/runner/work/catalog/catalog/incubator/icloudpd",
+            "healthy": true,
+            "healthy_error": null,
+            "latest_version": "2.0.14",
+            "latest_app_version": "latest",
+            "latest_human_version": "latest_2.0.14",
+            "icon_url": "https://truecharts.org/img/hotlink-ok/chart-icons/icloudpd.png"
         }
     },
     "dependency": {
